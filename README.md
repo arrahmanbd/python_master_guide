@@ -28,10 +28,10 @@ This Repo includes the following features:
 - **Notes for Students:** I have also added notes and explainations .
 ## Examples
 
-<img width="1800" alt="Flutter Responsive Dashboard Template " src="assignments/Class 1/1.string_example.png">
+<img width="720" alt="Flutter Responsive Dashboard Template " src="assignments/Class 1/1.string_example.png">
 <br>
-
-![Screenshot 2](assignments/Class 1/2.numeric_operations.png)
+<img width="720" alt="Flutter Responsive Dashboard Template " src="assignments/Class 1/2.numeric_operations.png">
+<br>
 
 
 ## Contributing
