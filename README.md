@@ -36,7 +36,7 @@ This Repo includes the following features:
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have a feature request (working on QT6), please open an issue or submit a pull request.
+Contributions are welcome! If you find a bug or have a feature request (working on QT6),Now I am broken 💔. Please let the universe inside my heart. You can open an issue or submit a pull request.
 
 ## 🔗 Follow
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arrahmanbd.github.io/)
