@@ -27,3 +27,18 @@ def factorial(number):
             
 number = int(input('enter a number:- '))
 print(factorial(number))
+
+
+#another way
+def fact(y):
+    temp=1
+    if y< 0:
+        print("Positive number needee")
+    elif y==0:
+        print("factorial 0 is 1")
+    else:
+        for i in range (1,y+1):
+            temp=temp*i
+        print(f"{temp}")
+x=int(input("Number:"))
+fact(x)
